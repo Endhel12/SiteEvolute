@@ -1,7 +1,6 @@
 {
 	"name": "web-app",
 	"type": "module",
-	"homepage": "https://www.seudominio.com.br",
 	"version": "0.0.0",
 	"private": true,
 	"scripts": {
