@@ -3,5 +3,5 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/SiteEvolute/", // domínio próprio (evoluteads.com.br)
+  base: "/", // domínio próprio
 });
